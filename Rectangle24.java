@@ -12,9 +12,9 @@ public class Rectangle24 {
         
         for (int i = 1; i <= baris; i++) {  
             for (int j = 1; j <= kolom; j++) { 
-            System.out.print("*"); 
+            System.out.print("#"); 
             }
-        System.out.println();  
+        System.out.println();
         }
         sc.close();
     }
